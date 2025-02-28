@@ -1,0 +1,13 @@
+.bg{
+    background-image: url('https://img.freepik.com/free-vector/white-with-low-poly-network-connection_1017-29753.jpg');
+    background-size: cover;
+    height: 100vh;
+
+}
+.w{
+    width: 300px;
+}
+
+.head{
+    text-align: center;
+}
