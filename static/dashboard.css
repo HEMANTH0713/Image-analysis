@@ -1,0 +1,48 @@
+/* General Page Styles */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar Styling */
+.navbar {
+    border-radius: 10px;
+}
+
+/* Card Styling */
+.card {
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Table Styling */
+table {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+/* Metadata Details */
+details {
+    cursor: pointer;
+}
+
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 5px;
+}
+
+/* Flash Messages */
+.alert {
+    border-radius: 5px;
+}
